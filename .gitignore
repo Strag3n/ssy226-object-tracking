@@ -1,0 +1,13 @@
+# Data and results
+extracted-data/
+results/
+
+# Python environments and cache
+python-miljo/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
